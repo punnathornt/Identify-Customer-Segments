@@ -6,3 +6,6 @@ The objective of the model is to find the possible customers' segments so that t
 
 ## Usage
 - See an example in this file: _Identify_Customer_Segments.ipynb_ or _Identify_Customer_Segments.html_
+
+## License
+- The data used in the project is proprietary to Bertelsmann Arvato Analytics.
